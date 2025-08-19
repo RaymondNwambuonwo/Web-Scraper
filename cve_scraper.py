@@ -122,7 +122,7 @@ class CVEScraper(SecureScraper):
 def main():
     """Main execution function"""
     print("🔍 CVE Threat Intelligence Scraper")
-    print("Author: Raymond Nwambuonwo")
+    print("Author: Raymond")
     print("="*50)
     
     scraper = CVEScraper()
